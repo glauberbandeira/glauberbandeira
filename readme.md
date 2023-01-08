@@ -1,15 +1,14 @@
 # Hello, Welcome to my Github! 👋
 
-Hi, my name is Glauber Bandeira, I am Front-End Developer. Simply passionate about technology and web development.
+Hi!
 
-Access my personal website, where you have images of my personal projects.
-[Here](https://glauberbandeira.vercel.app/)
+My name is Glauber Bandeira, I am currently fulfilling a dream of living in Sydney and doing an exchange program to improve my English, after English, I will start my course in Cyber Security. I have a degree in Systems Analysis and Development and am looking for an opportunity in the IT area, with a focus on Cyber Security.
+
+I know, HTML, CSS, Javascript, Networks, Python, Django, and Flask.
+
+Here I will document all my knowledge acquired on this journey.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/glauberbandeira/)](www.linkedin.com/in/glauberbandeira/)
-
-# My Skills 🚀
-
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
 
