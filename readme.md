@@ -2,9 +2,9 @@
 
 Hi!
 
-My name is Glauber Bandeira, I am currently fulfilling a dream of living in Sydney and doing an exchange program to improve my English, after English, I will start my course in Cyber Security. I have a degree in Systems Analysis and Development and am looking for an opportunity in the IT area, with a focus on Cyber Security.
+My name is Glauber Bandeira, I am currently fulfilling a dream of living in Sydney and doing an exchange program to improve my English, after English, I will start my course in Cyber Security. I have a degree in Systems Analysis and Development and am looking for an opportunity in the IT area.
 
-I know, HTML, CSS, Javascript, Networks, Python, Django, and Flask.
+Front End Developer - Javascript | React | Sql | Python | Django
 
 Here I will document all my knowledge acquired on this journey.
 
